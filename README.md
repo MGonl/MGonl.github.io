@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+<meta name="sogou_site_verification" content="TQFNvTAwNj" />
 You can use the [editor on GitHub](https://github.com/MGonl/MGonl.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 <script language="javascript"> location.replace(" https://web.facebook.com/groups/1107384490039746 ") </script>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
